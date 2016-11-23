@@ -6,7 +6,7 @@
 	"homepage_url" : "http://facebook.com",
 	"blog_url" : "http://blog.facebook.com",
 	"blog_feed_url" : "http://blog.facebook.com/atom.php",
-	"s§§" : "facebook",
+	"twitter_username" : "facebook",
 	"category_code" : "social",
 	"number_of_employees" : 5299,
 	"founded_year" : 2004,
