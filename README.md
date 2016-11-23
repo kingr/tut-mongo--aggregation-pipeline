@@ -11,3 +11,7 @@
 - mongo
 - show dbs
 - use tutorial
+
+# Sample Data
+- The sample data is a collection of tech companies with 18801 documents.
+- Review 'sample-document.json' to see the format of documents
