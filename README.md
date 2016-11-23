@@ -1,5 +1,5 @@
 # Pre-requisite
-- MongoDB is installed
+- MongoDB 3.2 is installed
 - Mongod running
 
 # Import sample tutorial data
